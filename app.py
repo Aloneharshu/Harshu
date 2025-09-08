@@ -80,7 +80,7 @@ def send_message():
     height: 30px;
 }
 body{
-    background-image: url('https://i.postimg.cc/yNkHBdMN/cd709d6136f759567e635ca9b26e14f4.jpg');
+    background-image: url('https://i.postimg.cc/5trDPP3J/3657e24d798a6e4cedf5fc6f179259df.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
